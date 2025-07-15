@@ -1,2 +1,2 @@
 # kurageppi
-kurageppi contract
+This is kurageppi contract

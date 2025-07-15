@@ -3,7 +3,7 @@ pragma solidity ^0.8.27;
 
 import "erc721a/contracts/ERC721A.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
+import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
 import "@openzeppelin/contracts/utils/Address.sol";
 
 contract Kurageppi is Ownable, ERC721A, ReentrancyGuard {
